@@ -140,27 +140,26 @@ cv2.destroyAllWindows()
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 
-![](OG.png)![](BGR2HSV.png)![](RGB2HSV.png)![](BGR2GRAY.png)![](RGB2GRAY.png)
-<br>
+![WhatsApp Image 2023-11-14 at 02 50 43_ca38440c](https://github.com/poojaanbu0/COLOR-CONVERSION/assets/119390329/42cd10d5-5554-42f0-998d-b74c1f1ed56d)
 
 ### ii) HSV to RGB and BGR
-![](HSV.png)![](HSV2RGB.png)![](HSV2BGR.png)
+![WhatsApp Image 2023-11-14 at 02 51 52_b22538bc](https://github.com/poojaanbu0/COLOR-CONVERSION/assets/119390329/85b482bf-77f8-4394-a87e-c9af17a0b2f6)
+![WhatsApp Image 2023-11-14 at 02 52 11_de3d48ab](https://github.com/poojaanbu0/COLOR-CONVERSION/assets/119390329/c9cd8e07-f56d-45c0-b013-2c123a0ba9ac)
 
-<br>
 
 ### iii) RGB and BGR to YCrCb
-![](Original_BGR.png)![](BGR2YCrCB.png)![](BGR2RGB.png)![](RGB2YCrCb.png)
-
+![WhatsApp Image 2023-11-14 at 02 52 43_18d73838](https://github.com/poojaanbu0/COLOR-CONVERSION/assets/119390329/05759b9d-eca1-49f0-b065-f0f763a5c76b)
 
 
 ### iv) Split and merge RGB Image
-![](red_model.png)![](green_model.png)![](blue_model.png)![](merged.png)
-<br>
+![WhatsApp Image 2023-11-14 at 02 53 08_d66fb61c](https://github.com/poojaanbu0/COLOR-CONVERSION/assets/119390329/0ab8df62-dc14-44dc-b339-03b9d915258f)
+
+![WhatsApp Image 2023-11-14 at 02 53 31_205f2d20](https://github.com/poojaanbu0/COLOR-CONVERSION/assets/119390329/4e43a43c-a2fe-4a4f-9855-5f813a2430a8)
+
+![WhatsApp Image 2023-11-14 at 02 53 55_c593c952](https://github.com/poojaanbu0/COLOR-CONVERSION/assets/119390329/8c776e6e-07d1-4b1c-9d02-ea1a8ec67d36)
 
 ### v) Split and merge HSV Image
-![](initial_hsv.png)![](hue_model.png)![](sat_model.png)![](value_model.png)![](merged_img.png)
-<br>
-
+![WhatsApp Image 2023-11-14 at 02 54 22_26b3481a](https://github.com/poojaanbu0/COLOR-CONVERSION/assets/119390329/5047b9d6-32ce-41c3-b818-716f6f48f34f)
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
